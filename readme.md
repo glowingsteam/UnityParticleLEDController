@@ -6,6 +6,6 @@ How to use:
 - PROFIT!!!!11!1!!!1!!!!
 
 Assets Used:
-https://wenrexa.itch.io/ui-different02
-https://wenrexa.itch.io/holoui
-https://www.dafont.com/origin-tech.font
+- https://wenrexa.itch.io/ui-different02
+- https://wenrexa.itch.io/holoui
+- https://www.dafont.com/origin-tech.font
