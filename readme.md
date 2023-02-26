@@ -5,6 +5,9 @@ How to use:
 - ????
 - PROFIT!!!!11!1!!!1!!!!
 
+Tips:
+- Make sure you set `git update-index --assume-unchanged .\Assets\Scripts\APIData.cs` if you plan on doing any forks or PR's ;)
+
 Assets Used:
 - https://wenrexa.itch.io/ui-different02
 - https://wenrexa.itch.io/holoui
